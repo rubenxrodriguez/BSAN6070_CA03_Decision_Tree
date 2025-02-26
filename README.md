@@ -9,10 +9,10 @@ This is an income classifier using a decision tree model. This model will predic
 * Pandas (Version 2.2.3)
 * Scikit Learn (Version 1.6.1)
 * Scikit Learn (DecisionTreeClassifier function from sklearn.tree) (Version 1.6.1)
-Scikit Learn (Metrics section with accuracy_score, precision_score, recall_score, f1_score, and confusion_matrix function) (Version 1.6.1)
-Scikit Learn (export_graphviz function from sklearn.tree) (Version 1.6.1)
-Time (Version 3.13.2)
-Graphviz (Version 0.20.3)
+* Scikit Learn (Metrics section with accuracy_score, precision_score, recall_score, f1_score, and confusion_matrix function) (Version 1.6.1)
+* Scikit Learn (export_graphviz function from sklearn.tree) (Version 1.6.1)
+* Time (Version 3.13.2)
+* Graphviz (Version 0.20.3)
 
 ## Dataset and Source Code
 The dataset was provided by Professor Brahma. The link to the data source is : https://github.com/ArinB/MSBA-CA-03-Decision-Trees/blob/master/census_data.csv?raw=true. 
